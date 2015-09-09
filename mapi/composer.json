@@ -1,0 +1,23 @@
+{
+    "name": "brightcove/mapi",
+    "type": "library",
+    "description": "Brightcove Media API for PHP",
+    "keywords": ["Brightcove","video"],
+    "homepage": "https://github.com/PlanetTelexInc/PHP-MAPI-Wrapper",
+    "license": "Brightcove",
+    "authors": [
+        {
+            "name": "Mathew Congrove",
+            "email": "mcongrove@brightcove.com",
+            "homepage": "http://opensource.brightcove.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "classmap": ["bc-mapi-cache.php", "bc-mapi.php"]
+    }
+}
