@@ -1,9 +1,9 @@
 {
-    "name": "brightcove/mapi",
+    "name": "unionco/mapi",
     "type": "library",
     "description": "Brightcove Media API for PHP",
     "keywords": ["Brightcove","video"],
-    "homepage": "https://github.com/PlanetTelexInc/PHP-MAPI-Wrapper",
+    "homepage": "https://github.com/unionco/mapi",
     "license": "Brightcove",
     "authors": [
         {
